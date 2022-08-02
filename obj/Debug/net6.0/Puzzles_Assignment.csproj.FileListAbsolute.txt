@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\bin\Debug\net6.0\Puzzles_Assignment.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\bin\Debug\net6.0\Puzzles_Assignment.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\bin\Debug\net6.0\Puzzles_Assignment.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\bin\Debug\net6.0\Puzzles_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\bin\Debug\net6.0\Puzzles_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\refint\Puzzles_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\Puzzles_Assignment.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Puzzles_Assignment\obj\Debug\net6.0\ref\Puzzles_Assignment.dll
